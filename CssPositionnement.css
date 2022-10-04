@@ -1,0 +1,177 @@
+/*Exo 1*/
+#rect1exo1 {
+    width: 477px;
+    height: 264px;
+    background: green;
+    border: solid black;
+    margin: 93px;
+}
+#rect2exo1 {
+    width: 355px;
+    height: 147px;
+    background: purple;
+    border: solid black;
+    margin: 51px;
+}
+#rect3exo1 {
+    width: 268px;
+    height: 60px;
+    background: orange;
+    margin: 44px;
+    border: solid black;
+}
+/*-----------------------------------------------------*/
+/*Exo 2*/
+#rect1exo2 {
+    position: relative;
+    bottom: -150px;
+    left: 200px;
+    width: 702px;
+    height: 338px;
+    background: green;
+    border: solid black;
+}
+#rect2exo2 {
+    position: relative;
+    bottom: -50px;
+    left: 300px;
+    /* opacity: 0.70; */
+    width: 530px;
+    height: 220px;
+    background: purple;
+    border: solid black;
+}
+#rect3exo2 {
+    /* opacity: 1 !important; */
+    position: relative;
+    top: -42px;
+    right: 537px;
+    width: 528px;
+    height: 102px;
+    background: orange;
+    margin: 92px;
+    border: solid black;
+}
+/*-----------------------------------------------------*/
+/*Exo 3*/
+#rect1exo3 {
+    position: absolute;
+    width: 1014px;
+    height: 216px;
+    background: green;
+    border: solid black;
+    margin: 200px;
+}
+#rect2exo3 {
+    position: absolute;
+    right: 100px;
+    bottom: 38px;
+    width: 761px;
+    height: 104px;
+    background: purple;
+    border: solid black;
+}
+#rect3exo3 {
+    width: 200px;
+    height: 200px;
+    background: orange;
+    margin: 92px;
+    border: solid black;
+    position: absolute;
+    bottom: -408px;
+    right: 222px;
+}
+/*-----------------------------------------------------*/
+/*Exo4*/
+#rect1exo4 {
+    position: absolute;
+    bottom: -1205px;
+    width: 1154px;
+    height: 216px;
+    background: cornflowerblue;
+    border: solid black;
+    margin: 200px;
+}
+
+#rect2exo4 {
+    position: absolute;
+    right: 552px;
+    bottom: -286px;
+    width: 169px;
+    height: 169px;
+    background: #ff6f00;
+    border: solid black;
+}
+#rect3exo4 {
+    position: absolute;
+    right: 34px;
+    bottom: 22px;
+    width: 100px;
+    height: 100px;
+    background: #645a91;
+    border: solid black;
+}
+
+#rect4exo4 {
+    position: absolute;
+    right: -247px;
+    bottom: -239px;
+    width: 169px;
+    height: 169px;
+    background: #ad1457;
+    border: solid black;
+}
+/*EXO 5*/
+
+#rect1exo5 {
+    position: absolute;
+    left: 300px;
+    bottom: -2461px;
+    width: 745px;
+    height: 668px;
+    background: #0277bd;
+    border: solid black;
+    margin: 200px;
+    padding: 10px 10px 10px;
+}
+
+#rect2exo5 {
+    position: relative;
+    margin: 10px;
+    padding: 100px;
+    border: solid black;
+    width: 100px;
+    height: 100px;
+    background-color: dimgrey;
+}
+
+#rect3exo5 {
+    position: relative;
+    left: 414px;
+    margin: -103px;
+    padding: 100px;
+    border: solid black;
+    width: 100px;
+    height: 100px;
+    background-color: dimgrey;
+}
+#rect4exo5 {
+    position: relative;
+    left: -517px;
+    bottom: -247px;
+    padding: 100px;
+    border: solid black;
+    width: 100px;
+    height: 100px;
+    background-color: dimgrey;
+}
+#rect5exo5 {
+    position: relative;
+    left: 307px;
+    bottom: 99px;
+    padding: 100px;
+    border: solid black;
+    width: 100px;
+    height: 100px;
+    background-color: #b71c1c;
+}
